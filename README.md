@@ -1,1 +1,1 @@
-# supply_algorithm_visualization
+# Memorandum of research
