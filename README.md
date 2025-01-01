@@ -1,5 +1,4 @@
-# Picture of this file
-
+# Picture of this algorithm
 Before
 ![algorithm1](https://github.com/user-attachments/assets/7bbbe987-aa45-4763-bd0a-f2341d2331e1)
 
